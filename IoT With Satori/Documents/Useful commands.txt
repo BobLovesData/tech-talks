@@ -1,0 +1,9 @@
+How you run a jar file.
+java -jar SubscribeToWeatherChannel.jar <port number>
+
+Find ports that are in use: 
+On Windows: netstat -a
+On Linux: netstat -tulpn | grep LISTEN
+
+Testing the socket application
+telnet localhost <port number>
