@@ -1,2 +1,2 @@
 # Getting Started With Sparklyr
-Repo for the presentation Getting Started With Sparklyr
+Slides for the Kansas City R Users Group MeetUp titled SparklyR and Sentiment Analysis, held on 10Feb18.
